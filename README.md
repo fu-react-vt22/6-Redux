@@ -5,11 +5,11 @@ I denna modul utreder vi fördelar med ett state management system och kollar in
 
 ## 6.1
 
-**Film:** https://vimeo.com/653010922
+**Film:** https://vimeo.com/653010922/0fbe39f41b
 
 ## 6.2
 
-**Film:** https://vimeo.com/653010985
+**Film:** https://vimeo.com/653010985/a6f117c051
 
 https://gist.github.com/zocom-christoffer-wallenberg/e2747d94a211607f2f70847eff330804
 
